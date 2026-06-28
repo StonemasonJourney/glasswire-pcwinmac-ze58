@@ -1,4 +1,4 @@
-# 
+# 开源 GlassWire 插件 Mac OS版 | 即时 GlassWire 插件 PC Windows版。集成 私人设置 和 零日威胁防护，跨平台性能最大化。
 
 
 
